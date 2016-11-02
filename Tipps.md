@@ -1,8 +1,11 @@
 ## Districts
-|District     |Adjacency (+1)  | Adjacency (+½) |Restrictions    |Bonus       |Yields`*`  |
-| ----------- | -------------- | -------------- | -------------- | ---------- | -------|
-|**Holy Site**|**Natural Wonders, Mountains**|Districts, Forest|||+2 Faith|  
-|**Campus**|**Mountains**|Districts, Jungle|||+2 Science|    
+|District     |Adjacency          |Restrictions    |Bonus            |Yields`*`  |
+| ----------- | ----------------- | -------------- | -------------- | ---------- |
+|**Holy Site**|+1 Natural Wonders |||+2 Science|
+|             |+1 Mountains       |||          |
+|             |+½ Districts       |||          |
+|             |+½ Forest          |||          |  
+|**Campus**|**Mountains**|Districts, Jungle||||    
 |**Commercial Hub**|**Rivers**|-||+1 Trade Route|+4 Gold|    
 |**Industrial Zone**|**Mine/Quarry**|Districts|||+2 Production|    
 |**Theater Square**|**Wonders**|Districts|||+2 Culture|    
