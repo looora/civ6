@@ -5,10 +5,10 @@
     1. Go to `Documents/My Games/Sid Meyer's Civilization VI`.  
     2. Open `UserOptions.txt`  
     3. change following value to 0:  
-    ```ini  
-    ;Does the selection auto cycle to the next available unit? (0 = no, 1 = yes)  
-    AutoUnitCycle 1  
-    ```
+```ini  
+;Does the selection auto cycle to the next available unit? (0 = no, 1 = yes)  
+AutoUnitCycle 1  
+```
 </p>
 </details>
 
