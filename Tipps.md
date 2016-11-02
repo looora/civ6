@@ -17,11 +17,11 @@
 ## Districts
 |District     |Restrictions    |Adjacency (+1)  | Adjacency (+½)|
 | ----------- | -------------- | -------------- | --------------|
-|**Holy Site**|-|Natural Wonders, Mountains|Districts, Forest|  
-|**Campus**|-|Mountains|Districts, Jungle|  
-|**Commercial Hub**|-|Rivers||  
-|**Industrial Zone**|-|Mine/Quarry|Districts|  
-|**Theater Square**|-|Wonders|Districts|  
+|**Holy Site**|-|**Natural Wonders, Mountains**|Districts, Forest|  
+|**Campus**|-|**Mountains**|Districts, Jungle|  
+|**Commercial Hub**|-|**Rivers**||  
+|**Industrial Zone**|-|**Mine/Quarry**|Districts|  
+|**Theater Square**|-|**Wonders**|Districts|  
 |**Spaceport**|not on hills|||  
 |**Encampment**|not adjacent to city center|?||  
 |**Entertainment Complex**|-|?||  
