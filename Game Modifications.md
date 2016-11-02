@@ -1,20 +1,20 @@
+# Content		
+UI Improvements(#civ6-ui-improvements)  		
+[Annoyances](#civ6-annoyances)  		
+
+<a name="civ6-ui-improvements"/>		
+## Civ6 UI Improvements
 <details>
-  <summary>Civ6 UI Improvements</summary>
-  <p>
-  <details>
     <summary>Remove the intro logos</summary>
     <p>  
     1. Download blank .bk2 file from [here](https://github.com/weeebr/civ6/blob/master/Base/Platforms/Windows/Movies/logos.bk2?raw=true)  
     2. Replace file in `..\Base\Platforms\Windows\Movies`
     </p>
   </details>
-  </p>
-</details>
 
+<a name="civ6-annoyances"/>		
+## Civ6 Annoyances
 <details>
-  <summary>Civ6 Annoyances</summary>
-  <p>
-    <details>
     <summary>Turn off unit auto cycle</summary>
     <p>
     1. Go to `Documents/My Games/Sid Meyer's Civilization VI`. 
@@ -57,6 +57,3 @@
     ```
     </p>
     </details>
-  </p>
-</details>
-
