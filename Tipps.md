@@ -21,7 +21,7 @@
 | Aqueduct | - | adj. to city center |  | +2 or +6 Housing |
 
 
-
+<br /><br />
 <a name="units"/>	
 ## Units
 |Unit     |Era    |Type      |Policy    |Upgrades to |Bonus    |
@@ -33,7 +33,7 @@
 |**Horsemen**|Classical|melee|Agoge, Maneuver|Cavalry||
 
 
-
+<br /><br />
 <a name="civ-specific-tipps"/>	
 ## Civ-specific Tipps
 * Germany:
@@ -42,7 +42,7 @@
 * [More...](https://www.youtube.com/playlist?list=PLQFX9B_9L4-me8e0IDeMdFq0eFI9k9TV7)  
 
 
-
+<br /><br />
 <a name="general"/>	
 ## General
 * Production: 
