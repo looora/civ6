@@ -13,7 +13,7 @@
 </details>
 
 <details>
-<summary>Remove the **intro logos**</summary>
+<summary>Skip the **intro logos**</summary>
     <p>  
     1. Download blank .bk2 file from [here](https://github.com/weeebr/civ6/blob/master/Base/Platforms/Windows/Movies/logos.bk2?raw=true)  
     2. Replace file in `..\Base\Platforms\Windows\Movies`
@@ -45,9 +45,15 @@
 
 ## UI Improvements
 <details>  
-    <summary>Remove the intro logos</summary>  
+    <summary>Create a **custom main menu** (incl. Civilopedia)</summary>  
     <p>  
-    1. Download blank .bk2 file from [here](https://github.com/weeebr/civ6/blob/master/Base/Platforms/Windows/Movies/logos.bk2?raw=true)  
-    2. Replace file in `..\Base\Platforms\Windows\Movies`
+    1. Go to `..\Sid Meiers Civilization VI\Base\Assets\UI\FrontEnd`.
+    2. Locate `MainMenu.lua`.
+    3. Replace it with (this file)[https://github.com/weeebr/civ6/blob/master/Base\Assets\UI\FrontEnd\MainMenu.lua?raw=true]
 </p>
 </details>
+
+
+## More
+* https://www.reddit.com/r/civ/comments/58tbvd/list_of_answers_to_bugs_and_ui_issues_answers_to/
+* https://www.reddit.com/user/civ6stuff
