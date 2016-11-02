@@ -1,9 +1,10 @@
 ## Content
-[Districts](#districts)
-[Units](#units)  				
-[Civ-specific Tipps](#civ-specific-tipps)  		
-[General](#general)
+* [Districts](#districts)
+* [Units](#units)  				
+* [Civ-specific Tipps](#civ-specific-tipps)  		
+* [General](#general)
 
+<hr />
 <a name="districts"/>	
 ## Districts
 | District | Adjacency | Restrictions | Yields | Bonus |
