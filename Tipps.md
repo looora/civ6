@@ -1,18 +1,15 @@
 ## Districts
-|District     |Adjacency          |Restrictions    |Bonus            |Yields`*`  |
-| ----------- | ----------------- | -------------- | -------------- | ---------- |
-|**Holy Site**|+1 Natural Wonders |||+2 Science|
-|             |+1 Mountains       |||          |
-|             |+½ Districts       |||          |
-|             |+½ Forest          |||          |  
-|**Campus**|**Mountains**|Districts, Jungle||||    
+|District     |Adjacency (+1)  | Adjacency (+½) |Restrictions    |Bonus       |Yields`*`  |
+| ----------- | -------------- | -------------- | -------------- | ---------- | -------|
+|**Holy Site**|**Natural Wonders, Mountains**|Districts, Forest|||+2 Faith|  
+|**Campus**|**Mountains**|Districts, Jungle|||+2 Science|    
 |**Commercial Hub**|**Rivers**|-||+1 Trade Route|+4 Gold|    
 |**Industrial Zone**|**Mine/Quarry**|Districts|||+2 Production|    
 |**Theater Square**|**Wonders**|Districts|||+2 Culture|    
 |**Spaceport**|?|?|not on hills|||-|    
 |**Encampment**|?|?|not adjacent to city center|If Walls are built, it gains a ranged attack.||+1 Culture, + 1 Production|    
 |**Entertainment Complex**|?|?||||?|    
-|**Harbor**|coastal resources|Districts|next to water|+1 Trade Route||+2 Gold, +1 Gold|  
+|**Harbor**|coastal resources|Districts|next to water|+1 Trade Route||+2 Gold, +1 Gold|
 
 `*`: 
 
