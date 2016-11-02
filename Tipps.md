@@ -1,18 +1,17 @@
 ## Districts
-| District              | Adjacency                                          | Restrictions                | Bonus                                 | Yields`*`                  |
-|-----------------------|----------------------------------------------------|-----------------------------|---------------------------------------|--------------------------|
-| Holy Site             | +1 Natural Wonders, Mountains +½ Districts, Forest |                             |                                       | +2 Faith                 |
-| Campus                | +1 Mountains +½ Districts, Jungle                  |                             |                                       | +2 Science               |
-| Commercial Hub        | +2 Rivers                                          |                             | +1 Trade Route                        | +4 Gold                  |
-| Industrial Zone       | +1 Mine/Quarry +½ Districts                        |                             |                                       | +2 Production            |
-| Theater Square        | +1 Wonders +½ Districts                            |                             |                                       | +2 Culture               |
-| Spaceport             | ?                                                  | not on hills                |                                       |                          |
-| Encampment            | ?                                                  | not adjacent to city center | Has ranged attack if walls are built. | +1 Culture +1 Production |
-| Entertainment Complex | ?                                                  |                             |                                       |                          |
-| Harbor                | +1 Coastal Resources +½ Districts                  | next to water               | +1 Trade Route                        | +2 Gold +1 Science       |
-| Aqueduct              | -                                                  | next to city center         | +2 or +6 Housing                      |                          |
+| District | Adjacency | Restrictions | Yields | Bonus |
+|-----------------------|--------------------------|------------------------------------------------------|-----------|-----------------------------------------------|
+| Holy Site | +1 Natural Wonders, Mountains<br />+½ Districts, Forest |  | +2 Faith |  |
+| Campus | +1 Mountains<br />+½ Districts, Jungle |  | +2 Science |  |
+| Commercial Hub | +2 Rivers |  | +4 Gold | +1 Trade Route |
+| Industrial Zone | +1 Mine/Quarry<br />+½ Districts |  | +2 Production |  |
+| Theater Square | +1 Wonders<br />+½ Districts |  | +2 Culture |  |
+| Spaceport | ? | not on hills |  |  |
+| Encampment | ? | not adjacent to city center | +1 Culture+1 Production | If Walls are built, it gains a ranged attack. |
+| Entertainment Complex | ? |  |  |  |
+| Harbor | +1 Coastal Resources<br />+½ Districts | next to water | +2 Gold+1 Science | +1 Trade Route |
+| Aqueduct | - | next to city center |  | +2 or +6 Housing |
 
-`*`: 
 
 ## Units
 |Unit     |Era    |Type      |Policy    |Upgrades to |
