@@ -15,16 +15,16 @@
 
 
 ## Districts
-|District     |Restrictions    |Adjacency (+1)  | Adjacency (+½)|
+|District     |Adjacency (+1)  | Adjacency (+½)|Restrictions    |
 | ----------- | -------------- | -------------- | --------------|
-|**Holy Site**|-|**Natural Wonders, Mountains**|Districts, Forest|  
-|**Campus**|-|**Mountains**|Districts, Jungle|  
-|**Commercial Hub**|-|**Rivers**||  
-|**Industrial Zone**|-|**Mine/Quarry**|Districts|  
-|**Theater Square**|-|**Wonders**|Districts|  
-|**Spaceport**|not on hills|||  
-|**Encampment**|not adjacent to city center|?||  
-|**Entertainment Complex**|-|?||  
+|**Holy Site**|**Natural Wonders, Mountains**|Districts, Forest||  
+|**Campus**|**Mountains**|Districts, Jungle||  
+|**Commercial Hub**|**Rivers**|-||  
+|**Industrial Zone**|**Mine/Quarry**|Districts||  
+|**Theater Square**|**Wonders**|Districts||  
+|**Spaceport**|?|?|not on hills|  
+|**Encampment**|?|?|not adjacent to city center|  
+|**Entertainment Complex**|?|?||  
 
 ## General
 * Production: 
