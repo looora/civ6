@@ -3,7 +3,6 @@
   * Toronto boosts the range of Industrial Zones and Entertainment Districts by 3!
 * Scythia:
 * [More...](https://www.youtube.com/playlist?list=PLQFX9B_9L4-me8e0IDeMdFq0eFI9k9TV7)
-When the cards say "melee" it seems they mean anything with a melee not ranged attack rather than the melee promotion line (so excluding anti-cav units like spearmen)
 
 ## Units
 |Unit     |Era    |Type      |Policy    |Upgrades to |
