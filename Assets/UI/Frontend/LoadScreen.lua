@@ -1,0 +1,2 @@
+How to get rid of the narration during the loading screens?
+/u/Flosse001 says, "To get rid of the narration at the loadingscreens: Go to your games folder "..\Sid Meiers Civilization VI\Base\Assets\UI\FrontEnd". Open the file "LoadScreen.lua" (best with Notepad++). Go to line 253 start the voiceover. Comment the lines 253 throughout 260 with -- at the start Save Done.

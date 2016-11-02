@@ -15,3 +15,10 @@
 * War:
   * Razing cities remove the city from the map instantly... and it can only be done right after the conquest of a city.
   * When making peace deals with the AI, make sure to let the AI cede (=abtreten) the already conquered cities. Otherwise they'll just get your conquered city back instead.
+
+# Can you turn off unit auto cycle?
+Sure can! Go to `Documents/My Games/Sid Meyer's Civilization VI`, open the `UserOptions.txt` and find the line that says 
+```;Does the selection auto cycle to the next available unit? (0 = no, 1 = yes) 
+AutoUnitCycle 1```
+
+and change the 1 to a 0. (Not sure who to credit here since it's been mentioned so many times already.)

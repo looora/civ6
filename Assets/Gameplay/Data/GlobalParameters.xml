@@ -1,0 +1,5 @@
+an we do something about the AI constantly bugging us with various offers?
+/u/malvekiar figured this out as well. You can find the following options in the \Steam\steamapps\common\Sid Meier's Civilization VI\Base\Assets\Gameplay\Data/GlobalParameters.xml file:
+<Row Name="AI_TURNS_BETWEEN_FRIENDSHIP_OFFERS" Value="5" />
+<Row Name="AI_TURNS_BETWEEN_PEACE_OFFERS" Value="3" />
+<Row Name="AI_TURNS_BETWEEN_TRADES" Value="10" />
