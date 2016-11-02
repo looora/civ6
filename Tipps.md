@@ -1,7 +1,7 @@
 ## Content
 * [Districts](#districts)
 * [Units](#units)  				
-* [Civ-specific Tipps](#civ-specific-tipps)  		
+* [Civ-related Tips](#civ-related-tips)  		
 * [General](#general)
 
 <hr />
@@ -34,8 +34,8 @@
 
 
 <br /><br />
-<a name="civ-specific-tipps"/>	
-## Civ-specific Tipps
+<a name="civ-related-tips"/>	
+## Civ-related tips
 * Germany:
   * Toronto boosts the range of Industrial Zones and Entertainment Districts by 3!
 * Scythia:
