@@ -14,13 +14,13 @@
 
 
 ## Units
-|Unit     |Era    |Type      |Policy    |Upgrades to |
-| ------- | ----- | -------- | -------- | ---------  |
-|**Spearman**|Ancient|no melee |(?!)|Pikeman|
-|**Heavy Chariot**|Ancient|ranged|Agoge, Maneuver|Knight|Maneuver|
-|***War-Cart***|Ancient|heavy cav|Agoge, Maneuver|Knight|
-|***Saka Horse Archer***|Classical|ranged|Agoge, Maneuver|Field Cannon|  
-|**Horsemen**|Classical|melee|Agoge, Maneuver|Cavalry|
+|Unit     |Era    |Type      |Policy    |Upgrades to |Bonus    |
+| ------- | ----- | -------- | -------- | ---------  |---------|
+|**Spearman**|Ancient|no melee |(?!)|Pikeman||
+|**Heavy Chariot**|Ancient|ranged|Agoge, Maneuver|Knight|Maneuver||
+|***War-Cart***|Ancient|heavy cav|Agoge, Maneuver|Knight|no penalties vs. anti-cav|
+|***Saka Horse Archer***|Classical|ranged|Agoge, Maneuver|Field Cannon||  
+|**Horsemen**|Classical|melee|Agoge, Maneuver|Cavalry||
 
 ## Civ-specific Tipps
 * Germany:
