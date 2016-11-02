@@ -22,10 +22,10 @@
 
 <details>
     <summary>Turn off **narrator during the loading screens**</summary>
-    <p>  
-    1. Go to `..\Sid Meiers Civilization VI\Base\Assets\UI\FrontEnd`.
-    2. Open `LoadScreen.lua`.
-    3. Change lines 253-260 (comment out everything).
+    <p>
+    1. Go to `..\Sid Meiers Civilization VI\Base\Assets\UI\FrontEnd`.  
+    2. Open `LoadScreen.lua`.  
+    3. Change lines 253-260 (comment out everything).  
     </p>
 </details>
 
