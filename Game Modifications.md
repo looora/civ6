@@ -1,8 +1,3 @@
-# Content		
-[UI Improvements](#civ6-ui-improvements)  		
-[Annoyances](#civ6-annoyances)  		
-
-<a name="civ6-ui-improvements"/>		
 ## Civ6 UI Improvements
 <details>  
     <summary>Remove the intro logos</summary>  
@@ -12,7 +7,6 @@
 </p>
 </details>
 
-<a name="civ6-annoyances"/>		
 ## Civ6 Annoyances
 <details>
     <summary>Turn off unit auto cycle</summary>
