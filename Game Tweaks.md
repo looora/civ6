@@ -15,9 +15,9 @@ AutoUnitCycle 1
 <details>
 <summary>Skip the **intro logos**</summary>
     <p>  
-    1. Download blank .bk2 file from [here](http://www.geocities.ws/xbdvdrg/bik_replace.html). 
+    1. Download blank .bk2 file from [here](http://www.geocities.ws/xbdvdrg/bik_replace.html).  
     2. Rename file to `logos.bk2`.  
-    3. Paste file into the folder `..\Base\Platforms\Windows\Movies`
+    3. Paste file into the folder `..\Base\Platforms\Windows\Movies`  
     </p>
 </details>
 
