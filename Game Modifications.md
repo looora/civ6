@@ -1,19 +1,19 @@
 ## Annoyances
 <details>
-    <summary>Turn off unit auto cycle</summary>
+    <summary>Turn off **unit auto cycle**</summary>
     <p>
-    1. Go to `Documents/My Games/Sid Meyer's Civilization VI`. 
-    2. Open `UserOptions.txt`
-    3. change following value to 0: 
-  ```ini
-  ;Does the selection auto cycle to the next available unit? (0 = no, 1 = yes)  
-  AutoUnitCycle 0
-  ```
+    1. Go to `Documents/My Games/Sid Meyer's Civilization VI`.  
+    2. Open `UserOptions.txt`  
+    3. change following value to 0:  
+    ```ini  
+    ;Does the selection auto cycle to the next available unit? (0 = no, 1 = yes)  
+    AutoUnitCycle 0  
+    ```
 </p>
 </details>
 
 <details>
-<summary>Remove the intro logos</summary>
+<summary>Remove the **intro logos**</summary>
     <p>  
     1. Download blank .bk2 file from [here](https://github.com/weeebr/civ6/blob/master/Base/Platforms/Windows/Movies/logos.bk2?raw=true)  
     2. Replace file in `..\Base\Platforms\Windows\Movies`
@@ -21,7 +21,7 @@
 </details>
 
 <details>
-    <summary>Turn off narrator during the loading screens</summary>
+    <summary>Turn off **narrator during the loading screens**</summary>
     <p>  
     1. Go to `..\Sid Meiers Civilization VI\Base\Assets\UI\FrontEnd`.
     2. Open `LoadScreen.lua`.
@@ -30,7 +30,7 @@
 </details>
 
 <details>
-    <summary>Stop the AI making same trade offers repeatedly</summary>
+    <summary>Stop the AI making **same trade offers repeatedly**</summary>
     <p>  
     1. Go to `..\Sid Meier's Civilization VI\Base\Assets\Gameplay\Data`.
     2. Open `GlobalParameters.xml`.
