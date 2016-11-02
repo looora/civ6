@@ -1,13 +1,4 @@
-## Civ6 UI Improvements
-<details>  
-    <summary>Remove the intro logos</summary>  
-    <p>  
-    1. Download blank .bk2 file from [here](https://github.com/weeebr/civ6/blob/master/Base/Platforms/Windows/Movies/logos.bk2?raw=true)  
-    2. Replace file in `..\Base\Platforms\Windows\Movies`
-</p>
-</details>
-
-## Civ6 Annoyances
+## Annoyances
 <details>
     <summary>Turn off unit auto cycle</summary>
     <p>
@@ -50,4 +41,13 @@
     <Row Name="AI_TURNS_BETWEEN_TRADES" Value="10" />  
     ```
     </p>
+</details>
+
+## UI Improvements
+<details>  
+    <summary>Remove the intro logos</summary>  
+    <p>  
+    1. Download blank .bk2 file from [here](https://github.com/weeebr/civ6/blob/master/Base/Platforms/Windows/Movies/logos.bk2?raw=true)  
+    2. Replace file in `..\Base\Platforms\Windows\Movies`
+</p>
 </details>
