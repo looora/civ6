@@ -1,14 +1,15 @@
 ## Districts
-|District     |Adjacency (+1)  | Adjacency (+½)|Restrictions    |
-| ----------- | -------------- | -------------- | --------------|
+|District     |Adjacency (+1)  | Adjacency (+½) |Restrictions    |Bonus       |
+| ----------- | -------------- | -------------- | -------------- | ---------- |
 |**Holy Site**|**Natural Wonders, Mountains**|Districts, Forest||  
 |**Campus**|**Mountains**|Districts, Jungle||  
-|**Commercial Hub**|**Rivers**|-||  
+|**Commercial Hub**|**Rivers**|-||+1 Trade Route  
 |**Industrial Zone**|**Mine/Quarry**|Districts||  
 |**Theater Square**|**Wonders**|Districts||  
 |**Spaceport**|?|?|not on hills|  
-|**Encampment**|?|?|not adjacent to city center|  
-|**Entertainment Complex**|?|?||  
+|**Encampment**|?|?|not adjacent to city center|If Walls are built, it gains a ranged attack.|  
+|**Entertainment Complex**|?|?|||  
+|**Harbor**|coastal resources|Districts|next to water|+1 Trade Route|
 
 ## Units
 |Unit     |Era    |Type      |Policy    |Upgrades to |
