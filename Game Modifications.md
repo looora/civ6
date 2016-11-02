@@ -1,10 +1,3 @@
-## Hidden Gamesetup settings
-* [City States & AI](https://www.reddit.com/r/civ/comments/58tbvd/list_of_answers_to_bugs_and_ui_issues_answers_to/d98s9qp/)
-* [Barbarians](https://www.reddit.com/r/civ/comments/59lsbf/map_settings_reference_everything_ive_found/)
-* [Starting position](https://www.reddit.com/r/civ/comments/58tbvd/list_of_answers_to_bugs_and_ui_issues_answers_to/d98s9qp/)
-* [More...](https://www.reddit.com/r/civ/comments/59lsbf/map_settings_reference_everything_ive_found/)
-
-
 ## Annoyances
 <details>
     <summary>Turn off **unit auto cycle**</summary>
@@ -60,6 +53,11 @@
 </p>
 </details>
 
+## Hidden Gamesetup settings
+* [City States & AI](https://www.reddit.com/r/civ/comments/58tbvd/list_of_answers_to_bugs_and_ui_issues_answers_to/d98s9qp/)
+* [Barbarians](https://www.reddit.com/r/civ/comments/59lsbf/map_settings_reference_everything_ive_found/)
+* [Starting position](https://www.reddit.com/r/civ/comments/58tbvd/list_of_answers_to_bugs_and_ui_issues_answers_to/d98s9qp/)
+* [More...](https://www.reddit.com/r/civ/comments/59lsbf/map_settings_reference_everything_ive_found/)
 
 ## More
 * https://www.reddit.com/r/civ/comments/58tbvd/list_of_answers_to_bugs_and_ui_issues_answers_to/
