@@ -1,3 +1,10 @@
+## Content
+[Districts](#districts)
+[Units](#units)  				
+[Civ-specific Tipps](#civ-specific-tipps)  		
+[General](#general)
+
+<a name="districts"/>	
 ## Districts
 | District | Adjacency | Restrictions | Yields | Bonus |
 |-----------------------|-------------------|------------------------------------------------------|---|-----------------------------------------------|
@@ -12,23 +19,24 @@
 | Harbor | +1 Coastal Resources<br />+½ Districts | adj. to water | +2 Gold+1 Science | +1 Trade Route |
 | Aqueduct | - | adj. to city center |  | +2 or +6 Housing |
 
-
+<a name="units"/>	
 ## Units
 |Unit     |Era    |Type      |Policy    |Upgrades to |Bonus    |
 | ------- | ----- | -------- | -------- | ---------  |---------|
 |**Spearman**|Ancient|no melee |(?!)|Pikeman||
-|**Heavy Chariot**|Ancient|ranged|Agoge, Maneuver|Knight|Maneuver||
+|**Heavy Chariot**|Ancient|ranged|Agoge, Maneuver|Knight||
 |***War-Cart***|Ancient|heavy cav|Agoge, Maneuver|Knight|no penalties vs. anti-cav|
 |***Saka Horse Archer***|Classical|ranged|Agoge, Maneuver|Field Cannon||  
 |**Horsemen**|Classical|melee|Agoge, Maneuver|Cavalry||
 
+<a name="civ-specific-tipps"/>	
 ## Civ-specific Tipps
 * Germany:
   * Toronto boosts the range of Industrial Zones and Entertainment Districts by 3!
 * Scythia:
 * [More...](https://www.youtube.com/playlist?list=PLQFX9B_9L4-me8e0IDeMdFq0eFI9k9TV7)  
 
-
+<a name="general"/>	
 ## General
 * Production: 
   * Building a settler will now cause your city to decrease its pop size by 1
