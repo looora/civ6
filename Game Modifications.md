@@ -49,7 +49,7 @@ AutoUnitCycle 1
     <p>  
     1. Go to `..\Sid Meiers Civilization VI\Base\Assets\UI\FrontEnd`.
     2. Locate `MainMenu.lua`.
-    3. Replace it with (this file)[https://github.com/weeebr/civ6/blob/master/Base\Assets\UI\FrontEnd\MainMenu.lua?raw=true]
+    3. Replace it with [this file](https://github.com/weeebr/civ6/blob/master/Base\Assets\UI\FrontEnd\MainMenu.lua?raw=true)
 </p>
 </details>
 
