@@ -1,21 +1,33 @@
-# Civ-specific Tipps
+## Civ-specific Tipps
 * Germany:
   * Toronto boosts the range of Industrial Zones and Entertainment Districts by 3!
 * Scythia:
 * [More...](https://www.youtube.com/playlist?list=PLQFX9B_9L4-me8e0IDeMdFq0eFI9k9TV7)
 When the cards say "melee" it seems they mean anything with a melee not ranged attack rather than the melee promotion line (so excluding anti-cav units like spearmen)
 
-# Units
+## Units
 |Unit     |Era    |Type      |Policy    |Upgrades to |
 | ------- | ----- | -------- | -------- | ---------  |
-|Spearman|Ancient|no melee |(?!)|Pikeman|
-|Heavy Chariot|Ancient|ranged|Agoge|Knight|Maneuver|
-|*War-Cart*|Ancient|heavy cav|Maneuver|Knight|
-|*Saka Horse Archer*|Classical|ranged|Agoge|Field Cannon|  
-|Horsemen|Classical|melee|Agoge, Maneuver|Cavalry|  
+|**Spearman**|Ancient|no melee |(?!)|Pikeman|
+|**Heavy Chariot**|Ancient|ranged|Agoge, Maneuver|Knight|Maneuver|
+|***War-Cart***|Ancient|heavy cav|Agoge, Maneuver|Knight|
+|***Saka Horse Archer***|Classical|ranged|Agoge, Maneuver|Field Cannon|  
+|**Horsemen**|Classical|melee|Agoge, Maneuver|Cavalry|  
 
 
-# General
+## Districts
+|District     |Restrictions    |Adjacency (+1)  | Adjacency (+½)|
+| ----------- | -------------- | -------------- | --------------|
+|**Holy Site**|-|Natural Wonders, Mountains|Districts, Forest|  
+|**Campus**|-|Mountains|Districts, Jungle|  
+|**Commercial Hub**|-|Rivers||  
+|**Industrial Zone**|-|Mine/Quarry|Districts|  
+|**Theater Square**|-|Wonders|Districts|  
+|**Spaceport**|not on hills|||  
+|**Encampment**|not adjacent to city center|?||  
+|**Entertainment Complex**|-|?||  
+
+## General
 * Production: 
   * Building a settler will now cause your city to decrease its pop size by 1
   * Unique districts do not count towards the district cap and are cheaper to construct.
