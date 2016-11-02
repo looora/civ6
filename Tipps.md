@@ -1,19 +1,3 @@
-## Civ-specific Tipps
-* Germany:
-  * Toronto boosts the range of Industrial Zones and Entertainment Districts by 3!
-* Scythia:
-* [More...](https://www.youtube.com/playlist?list=PLQFX9B_9L4-me8e0IDeMdFq0eFI9k9TV7)
-
-## Units
-|Unit     |Era    |Type      |Policy    |Upgrades to |
-| ------- | ----- | -------- | -------- | ---------  |
-|**Spearman**|Ancient|no melee |(?!)|Pikeman|
-|**Heavy Chariot**|Ancient|ranged|Agoge, Maneuver|Knight|Maneuver|
-|***War-Cart***|Ancient|heavy cav|Agoge, Maneuver|Knight|
-|***Saka Horse Archer***|Classical|ranged|Agoge, Maneuver|Field Cannon|  
-|**Horsemen**|Classical|melee|Agoge, Maneuver|Cavalry|  
-
-
 ## Districts
 |District     |Adjacency (+1)  | Adjacency (+½)|Restrictions    |
 | ----------- | -------------- | -------------- | --------------|
@@ -25,6 +9,22 @@
 |**Spaceport**|?|?|not on hills|  
 |**Encampment**|?|?|not adjacent to city center|  
 |**Entertainment Complex**|?|?||  
+
+## Units
+|Unit     |Era    |Type      |Policy    |Upgrades to |
+| ------- | ----- | -------- | -------- | ---------  |
+|**Spearman**|Ancient|no melee |(?!)|Pikeman|
+|**Heavy Chariot**|Ancient|ranged|Agoge, Maneuver|Knight|Maneuver|
+|***War-Cart***|Ancient|heavy cav|Agoge, Maneuver|Knight|
+|***Saka Horse Archer***|Classical|ranged|Agoge, Maneuver|Field Cannon|  
+|**Horsemen**|Classical|melee|Agoge, Maneuver|Cavalry|
+
+## Civ-specific Tipps
+* Germany:
+  * Toronto boosts the range of Industrial Zones and Entertainment Districts by 3!
+* Scythia:
+* [More...](https://www.youtube.com/playlist?list=PLQFX9B_9L4-me8e0IDeMdFq0eFI9k9TV7)  
+
 
 ## General
 * Production: 
