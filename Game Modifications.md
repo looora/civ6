@@ -47,9 +47,9 @@ AutoUnitCycle 1
 <details>  
     <summary>Create a **custom main menu** (incl. Civilopedia)</summary>  
     <p>  
-    1. Go to `..\Sid Meiers Civilization VI\Base\Assets\UI\FrontEnd`.
-    2. Locate `MainMenu.lua`.
-    3. Replace it with [this file](https://github.com/weeebr/civ6/blob/master/Base\Assets\UI\FrontEnd\MainMenu.lua?raw=true)
+    1. Go to `..\Sid Meiers Civilization VI\Base\Assets\UI\FrontEnd`.  
+    2. Locate `MainMenu.lua`.  
+    3. Replace it with [this file](https://github.com/weeebr/civ6/blob/master/Base\Assets\UI\FrontEnd\MainMenu.lua?raw=true)  
 </p>
 </details>
 
