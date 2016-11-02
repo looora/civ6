@@ -15,8 +15,9 @@ AutoUnitCycle 1
 <details>
 <summary>Skip the **intro logos**</summary>
     <p>  
-    1. Download blank .bk2 file from [here](https://github.com/weeebr/civ6/blob/master/Base/Platforms/Windows/Movies/logos.bk2?raw=true)  
-    2. Replace file in `..\Base\Platforms\Windows\Movies`
+    1. Download blank .bk2 file from [here](http://www.geocities.ws/xbdvdrg/bik_replace.html). 
+    2. Rename file to `logos.bk2`.  
+    3. Paste file into the folder `..\Base\Platforms\Windows\Movies`
     </p>
 </details>
 
