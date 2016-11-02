@@ -32,11 +32,11 @@
 <details>
     <summary>Stop the AI making **same trade offers repeatedly**</summary>
     <p>  
-    1. Go to `..\Sid Meier's Civilization VI\Base\Assets\Gameplay\Data`.
-    2. Open `GlobalParameters.xml`.
-    3. Change values of following lines:
+    1. Go to `..\Sid Meier's Civilization VI\Base\Assets\Gameplay\Data`.  
+    2. Open `GlobalParameters.xml`.  
+    3. Change values of following lines:  
     ```xml  
-    <Row Name="AI_TURNS_BETWEEN_FRIENDSHIP_OFFERS" Value="5" />  
+    <Row Name="AI_TURNS_BETWEEN_FRIENDSHIP_OFFERS" Value="5" />   
     <Row Name="AI_TURNS_BETWEEN_PEACE_OFFERS" Value="3" />  
     <Row Name="AI_TURNS_BETWEEN_TRADES" Value="10" />  
     ```
