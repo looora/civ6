@@ -1,5 +1,6 @@
 ## Getting Started
 * http://well-of-souls.com/civ/civ6_overview.html
+* [Gamepedia: How To Play](http://civ6.gamepedia.com/How_To_Play_Guide_for_Civ_6)
 * [/r/civ: Information Megathread](https://www.reddit.com/r/civ/comments/4pg5v7/megathread_all_civilization_vi_confirmed_info/)
 * [/r/civ: Gameplay Beginners' FAQ](https://www.reddit.com/r/civ/comments/58tbvd/list_of_answers_to_bugs_and_ui_issues_answers_to/)
 * [YouTube Playlist: FilthyRobot's Newbie Guides, Tips, and Tricks](https://www.youtube.com/playlist?list=PLQFX9B_9L4-k2jjbVPmdy7BwXql9pBGYl)
