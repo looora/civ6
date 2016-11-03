@@ -65,7 +65,9 @@
   * Unlocking Monarchy will change Maneuver to NOT work with your horsemen (incl. Saka Horse Archers), in addition Feudalism will change your agoge card into feudal contract which will also stop working with your horsemen (incl. Saka).
 * Trade
   * Start a Trade Route from your second city early to quickly boost your new city.
-  
+
+
+<br /><br />
 <a name="tips-memorized"/>
 ## Tips memorized or tested
 * Production: 
