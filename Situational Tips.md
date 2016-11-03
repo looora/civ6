@@ -1,14 +1,14 @@
-## Cty States
+## City States
 
 | City State | Situation | Bonus |
 |--------------|--------------------|---------------------------------------------------------------------|
-| Toronto | late game | (boosts range of Industrial Zones and Entertainment Districts by 3) |
-| Kumasi | late game | Trade Routes gain +2 Culture for every district) |
-| Nan Mandol | on water maps | +2 Culture for tiles on or next to coast) |
-| Buenos Aires | lack of amenities | Bonus resources become Luxury resources) |
+| Toronto | late game | boosts range of Industrial Zones and Entertainment Districts by 3 |
+| Kumasi | late game | Trade Routes gain +2 Culture for every district |
+| Nan Mandol | on water maps | +2 Culture for tiles on or next to coast |
+| Buenos Aires | lack of amenities | Bonus resources become Luxury resources |
 | Carthage | early game, mostly | +1 Trade Route |
 | Kabul | single player | units receive x2 XP when attacking |
-| Valetta | Japan, much faith |  |
+| Valetta | Japan, much faith | faith-purchase buildings from City Center and Encampments |
 
 ## Others
 * Great People
