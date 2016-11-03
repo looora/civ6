@@ -62,5 +62,7 @@
   * Razing cities remove the city from the map instantly... and it can only be done right after the conquest of a city.
   * When making peace deals with the AI, make sure to let the AI cede (=abtreten) the already conquered cities. Otherwise they'll just get your conquered city back instead.
   * When making peace deals with the AI, make sure to let the AI cede (=abtreten) the already conquered cities. Otherwise they'll just get your conquered city back instead.
+* City States
+  * When entering a new era, city state missions change!
 
 
