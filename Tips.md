@@ -6,12 +6,11 @@
 <hr>
 <a name="new"/>	
 ## New Tips
-* I've personally seen my units fortify immediately when placed on a great wall. I've also noticed enemy units do that too!
+* Units fortify immediately when placed on a great wall. Enemy units do that too!
 * Copies of luxury resources DON'T give amenities to more cities.
 * You get the resources that spawn under wonders (what about districts?)
 * The treasury can only display a minimum of 0. If it drops below,units begin disbanding because of "negative gold income".
-* Liberating civs: The new city becomes their "Original Capital" for Domination Victory even if you own their actual original capital. So let's say you kill Gorgo and liberate her later in Argos. You still own Sparta, but Argos is their original capital now.
-* https://www.reddit.com/r/CivStrategy/comments/596snx/scythia_strategy_refining/
+* A liberated city will act as a new capital, if the original capital is already captured. Counts for Domination Victory!
 * Unique districts do not count towards the district cap and are cheaper to construct.
 * Many people don't know, but the Factory building which you can build in the Industrial district grants 3 production to any city within 6 tiles.
 * If units require strategic resources, please note that you only need 2 copies of that resource in your whole empire in order to build them in any city (1 copy if the city has an encampment).                 
