@@ -6,7 +6,14 @@
 <hr>
 <a name="new"/>	
 ## New Tips
+* I've personally seen my units fortify immediately when placed on a great wall. I've also noticed enemy units do that too!
+* Copies of luxury resources DON'T give amenities to more cities.
+* You get the resources that spawn under wonders (what about districts?)
+* The treasury can only display a minimum of 0. If it drops below,units begin disbanding because of "negative gold income".
+* Liberating civs: The new city becomes their "Original Capital" for Domination Victory even if you own their actual original capital. So let's say you kill Gorgo and liberate her later in Argos. You still own Sparta, but Argos is their original capital now.
+* https://www.reddit.com/r/CivStrategy/comments/596snx/scythia_strategy_refining/
 * Unique districts do not count towards the district cap and are cheaper to construct.
+* Many people don't know, but the Factory building which you can build in the Industrial district grants 3 production to any city within 6 tiles.
 * If units require strategic resources, please note that you only need 2 copies of that resource in your whole empire in order to build them in any city (1 copy if the city has an encampment).                 
 * Horsemen are no melee units, eventhough they attack in melee (horsemen = cavalry)
 * Military Engineers can build missile silos which are used to launch nukes. That way it's possible to nuke somebody at the same turn as the silo has been built.
@@ -15,7 +22,9 @@
 * When entering a new era, city state missions change!
 * Unlocking Monarchy will change Maneuver to NOT work with your horsemen (incl. Saka Horse Archers), in addition Feudalism will change your agoge card into feudal contract which will also stop working with your horsemen (incl. Saka).
 * Start a Trade Route from your second city early to quickly boost your new city.
-* If you dont have city walls, you won't be able to attack with your city (!)
+* If you dont have city walls, you won't be able to attack with your city. If walls are built in the city, the encampment also gains a ranged attack.
+
+
 
 
 <br /><br />
