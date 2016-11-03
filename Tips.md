@@ -1,7 +1,7 @@
 ## Content
-* [Needs Testing](#needs-testing)
-* [New tips](#new)
-* [Memorized tips](#memorized)
+* [1a) New tips](#new)
+* [1b) Needs Testing](#needs-testing)
+* [2) Memorized tips](#memorized)
 
 <hr>
 <a name="new"/>	
