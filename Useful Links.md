@@ -10,6 +10,7 @@
 
 ## Mods
 * [CivFanatics: Civilization VI Downloads](http://forums.civfanatics.com/resources/categories/civilization-vi-downloads.145/)
+* [Nexus Mods](http://www.nexusmods.com/civilisationvi/mods/searchresults/?)
 
 ## More Resources
 * https://www.reddit.com/r/civ/
