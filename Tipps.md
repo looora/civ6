@@ -1,7 +1,7 @@
 ## Content
 * [Districts](#districts)
 * [Units](#units)  				
-* [Civ-related Tips](#civ-related-tips)  		
+* [Situational Tips](#situational-tips)  		
 * [General](#general)
 
 <hr />
@@ -34,11 +34,14 @@
 
 
 <br /><br />
-<a name="civ-related-tips"/>	
-## Civ-related tips
-* Germany:
-  * Toronto boosts the range of Industrial Zones and Entertainment Districts by 3!
+<a name="situational-tips"/>	
+## Situational or civ-related tips
+* City States:
+  * Toronto: production & amenities late game (boosts range of Industrial Zones and Entertainment Districts by 3)
+  * Kumasi: culture late game (Trade Routes gain +2 Culture for every district)
+  * Nan Mandol: water maps (+2 Culture for tiles on or next to coast)
 * Scythia:
+  * Build Kurgans early for snowballing your culture early game (Pantheon -> God of the Open Sky)
 * [More...](https://www.youtube.com/playlist?list=PLQFX9B_9L4-me8e0IDeMdFq0eFI9k9TV7)  
 
 
@@ -64,5 +67,5 @@
   * When making peace deals with the AI, make sure to let the AI cede (=abtreten) the already conquered cities. Otherwise they'll just get your conquered city back instead.
 * City States
   * When entering a new era, city state missions change!
-
-
+* Civics
+  * Unlocking Monarchy will change Maneuver to NOT work with your horsemen (incl. Saka Horse Archers), in addition Feudalism will change your agoge card into feudal contract which will also stop working with your horsemen (incl. Saka).
